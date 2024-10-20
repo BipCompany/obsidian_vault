@@ -1,0 +1,4 @@
+I like art. I listen to music everyday. I sometimes see paintings. And also I read books. But would not say that art is very important for everyone. If you like art it's cool but if you don't it's okay.
+As I said I listen to music and read books. These are not creative activities that we are used to think about but appreciating art is also an art.
+Out of activities that I know I would like to try light painting. It is when you make large exposure on your camera and draw with your phones light for example.
+I actually don't know any more interesting hobbies that I would like to try so this is it.
