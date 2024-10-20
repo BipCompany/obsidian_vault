@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Solarized",
+  "theme": "moonstone",
+  "nativeMenus": false,
+  "interfaceFontFamily": "Cascadia Mono",
+  "textFontFamily": "",
+  "baseFontSize": 20,
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "accentColor": "#d2cdb6",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-wide"
+  ]
+}

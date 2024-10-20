@@ -1,0 +1,10 @@
+{
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "attachmentFolderPath": "Cashe",
+  "foldHeading": false,
+  "propertiesInDocument": "visible",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "alwaysUpdateLinks": true
+}

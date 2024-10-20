@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "прочитал n-раз": "text",
+    "создал заметку": "text"
+  }
+}
